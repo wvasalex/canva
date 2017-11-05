@@ -1,3 +1,5 @@
+# Draggable rect within responsive canvas
+
 ## Запуск приложения
 
 @angular/cli для запуска и сборки
