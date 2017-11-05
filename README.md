@@ -1,16 +1,21 @@
-Запуск приложения
+## Запуск приложения
 
 @angular/cli для запуска и сборки
+
 npm i -g @angular/cli
 
 git clone https://github.com/wvasalex/canva.git
+
 cd canva
+
 npm i
 
-Страница для просмотра результата с live-reload
+## Страница для просмотра результата с live-reload
+
 ng serve --o
 
-Сборка приложения
+## Сборка приложения
+
 ng build --base-href="" --output-path="../build"
 
 
