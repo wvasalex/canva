@@ -1,3 +1,19 @@
+Запуск приложения
+
+@angular/cli для запуска и сборки
+npm i -g @angular/cli
+
+git clone https://github.com/wvasalex/canva.git
+cd canva
+npm i
+
+Страница для просмотра результата с live-reload
+ng serve --o
+
+Сборка приложения
+ng build --base-href="" --output-path="../build"
+
+
 # CanvasRect
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
