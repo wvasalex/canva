@@ -1,8 +1,8 @@
 # Draggable rect within responsive canvas
 
-## Запуск приложения
+## Установка приложения
 
-@angular/cli для запуска и сборки
+@angular/cli для запуска и сборки приложения
 
 npm i -g @angular/cli
 
@@ -12,7 +12,7 @@ cd canva
 
 npm i
 
-## Страница для просмотра результата с live-reload
+## Запуск сервера
 
 ng serve --o
 
